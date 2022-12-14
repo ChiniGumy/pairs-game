@@ -10,3 +10,15 @@ C:\Users\dseba\Desktop\Code\Projects\Pairs_game\obj\Debug\Pairs_game.vbproj.Core
 C:\Users\dseba\Desktop\Code\Projects\Pairs_game\obj\Debug\Pairs_game.exe
 C:\Users\dseba\Desktop\Code\Projects\Pairs_game\obj\Debug\Pairs_game.xml
 C:\Users\dseba\Desktop\Code\Projects\Pairs_game\obj\Debug\Pairs_game.pdb
+C:\Users\dseba\OneDrive\Escritorio\pairs_game\bin\Debug\Pairs_game.exe.config
+C:\Users\dseba\OneDrive\Escritorio\pairs_game\bin\Debug\Pairs_game.exe
+C:\Users\dseba\OneDrive\Escritorio\pairs_game\bin\Debug\Pairs_game.pdb
+C:\Users\dseba\OneDrive\Escritorio\pairs_game\bin\Debug\Pairs_game.xml
+C:\Users\dseba\OneDrive\Escritorio\pairs_game\obj\Debug\Pairs_game.vbproj.AssemblyReference.cache
+C:\Users\dseba\OneDrive\Escritorio\pairs_game\obj\Debug\Pairs_game.Form1.resources
+C:\Users\dseba\OneDrive\Escritorio\pairs_game\obj\Debug\Pairs_game.Resources.resources
+C:\Users\dseba\OneDrive\Escritorio\pairs_game\obj\Debug\Pairs_game.vbproj.GenerateResource.cache
+C:\Users\dseba\OneDrive\Escritorio\pairs_game\obj\Debug\Pairs_game.vbproj.CoreCompileInputs.cache
+C:\Users\dseba\OneDrive\Escritorio\pairs_game\obj\Debug\Pairs_game.exe
+C:\Users\dseba\OneDrive\Escritorio\pairs_game\obj\Debug\Pairs_game.xml
+C:\Users\dseba\OneDrive\Escritorio\pairs_game\obj\Debug\Pairs_game.pdb

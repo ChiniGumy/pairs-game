@@ -14,8 +14,6 @@
 	End Sub
 	Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 		newGameButton.Enabled = False
-		radioButtonEasy.TabStop = False
-		radioButtonIntermedian.TabStop = False
 		radioButtonHard.TabStop = False
 		radioButtonEasy.TabIndex = 0
 		radioButtonIntermedian.TabIndex = 0
@@ -52,4 +50,5 @@
 		enableRadioButtons()
 		game.eraseBoard()
 	End Sub
+
 End Class
